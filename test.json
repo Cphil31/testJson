@@ -1,0 +1,13 @@
+[
+    {
+        "name": "philippe",
+        "email":"philipe@mail.com",
+        "animaux": ["chien","chat","lion"]
+    },
+    {
+        "name": "coco",
+        "email":"coco@mail.com",
+        "animaux": ["singe","tigre","vache"]
+    }
+    
+]
